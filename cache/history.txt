@@ -1,0 +1,489 @@
+Nov Fri 15 07:08:53 2024 min:ayaya | 1
+Nov Fri 15 07:08:55 2024 min:ayaya | ciallo
+Nov Fri 15 07:08:56 2024 min:ayaya | about
+Nov Fri 15 07:09:00 2024 min:ayaya | su minqwq
+Nov Fri 15 07:09:15 2024 min:ayaya | su minrysu
+Nov Fri 15 07:09:20 2024 minrysu:ayaya | su naidesu
+Nov Fri 15 07:17:11 2024 min:ayaya | 
+Nov Fri 15 07:32:16 2024 min:ayaya | 
+Nov Fri 15 07:32:16 2024 min:ayaya | 
+Nov Fri 15 07:32:17 2024 min:ayaya | 
+Nov Fri 15 07:32:17 2024 min:ayaya | 1
+Nov Fri 15 07:32:19 2024 min:ayaya | help
+Nov Fri 15 07:32:30 2024 min:ayaya | stdout_redirect 
+Nov Fri 15 07:35:40 2024 min:ayaya | stdout-redirect open(".output.log", "a", encoding="utf-8").write(cmd)
+Nov Fri 15 07:38:38 2024 min:ayaya | stdout-redirect open(".output.log", "a", encoding="utf-8").write(cmd)[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+Nov Fri 15 07:38:40 2024 min:ayaya | [A
+Nov Fri 15 07:39:02 2024 min:ayaya | stdouttredirect open(".output.log", "a", encoding="utf-8").write(cmd)
+Nov Fri 15 07:39:09 2024 min:ayaya | stdoutredirect
+Nov Fri 15 07:39:19 2024 min:ayaya | stdoutredirect open(".output.log", "a", encoding="utf-8").write(cmd)
+Nov Fri 15 07:39:52 2024 min:ayaya | 
+Nov Fri 15 07:39:57 2024 min:ayaya | stdout.redirect
+Nov Fri 15 07:40:08 2024 min:ayaya | stdoutredirect open(".output.log", "a", encoding="utf-8").write(cmd)
+Nov Fri 15 07:41:28 2024 min:ayaya | stdoutredirect tmp_outolog
+Nov Fri 15 07:41:49 2024 min:ayaya | stdoutredirect  open(".output.log", "a", encoding="utf-8").write(cmd)
+Nov Sat 16 01:30:52 2024 min:ayaya | mp
+Nov Sat 16 01:33:03 2024 0dminmin:ayaya | mp
+Nov Sat 16 05:46:38 2024 min:ayaya | help
+Nov Sat 16 05:46:41 2024 min:ayaya | about
+Nov Mon 18 00:53:51 2024 min:ayaya | ls
+Nov Mon 18 00:54:03 2024 min:ayaya | ed
+Nov Mon 18 00:54:15 2024 min:ayaya | help
+Nov Tue 19 11:58:39 2024 min:ayaya | rss
+Nov Tue 19 12:02:20 2024 min:ayaya | [A
+Nov Tue 19 12:02:22 2024 min:ayaya | rss
+Nov Wed 20 06:38:16 2024 min:ayaya | chthm lite
+Nov Wed 20 06:38:17 2024 min:ayaya | 
+Nov Wed 20 06:39:42 2024 min:ayaya | chthm
+Nov Wed 20 06:39:50 2024 min:ayaya | chthm debian_bash
+Nov Wed 20 06:39:53 2024 min:ayaya | help
+Nov Wed 20 06:40:38 2024 min:ayaya | extprog
+Nov Wed 20 06:40:55 2024 min:ayaya | 
+Nov Wed 20 06:41:01 2024 min:ayaya | chthm default
+Nov Thu 21 06:46:04 2024 redist:ayaya | uwufetch
+Nov Thu 21 06:46:15 2024 redist:ayaya | clock
+Nov Thu 21 06:46:34 2024 redist:ayaya | [A
+Nov Thu 21 06:46:37 2024 redist:ayaya | clock
+Nov Thu 21 06:47:03 2024 redist:ayaya | conf
+nul min:ayaya | 1
+nul min:ayaya | 1
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | help
+nul min:ayaya | help
+nul min:ayaya | about
+nul min:ayaya | help
+nul min:ayaya | about
+nul min:ayaya | about
+nul min:ayaya | uptime
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | ls
+nul min:ayaya | power
+nul min:ayaya | power 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | about -s
+nul min:ayaya | about
+nul min:ayaya | support
+nul port:ayaya | a
+nul port:ayaya | a
+nul port:ayaya | a
+nul min:ayaya | uwufetch
+nul min:ayaya | exit
+nul [94m(CRTRACT) minqwq[0m:ayaya | help
+nul [94m(CRTRACT) minqwq[0m:ayaya | 
+nul [94m(CRTRACT) minqwq[0m:ayaya | 
+nul [94m(CRTRACT) minqwq[0m:ayaya | 
+nul [94m(CRTRACT) minqwq[0m:ayaya | 
+nul [94m(CRTRACT) minqwq[0m:ayaya | demine
+nul [94m(CRTRACT) minqwq[0m:ayaya | 
+nul [94m(CRTRACT) minqwq[0m:ayaya | help
+nul [94m(CRTRACT) minqwq[0m:ayaya | 
+nul [94m(CRTRACT) minqwq[0m:ayaya | help
+nul min:ayaya | st
+nul k:ayaya | uwufetch
+nul k:ayaya | uwufetch
+nul k:ayaya | uwufetch
+nul k:ayaya | clear
+nul k:ayaya | exit
+nul [94m(CRTRACT) minqwq[0m:ayaya | 
+nul [94m(CRTRACT) minqwq[0m:ayaya | help
+nul [94m(CRTRACT) minqwq[0m:ayaya | about
+nul min:ayaya | about
+nul min:ayaya | about -s
+nul 1:ayaya | 
+nul 1:ayaya | chthm default_v2
+nul 1:ayaya | 
+nul 1:ayaya | 
+nul 1:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | help
+nul ,im:ayaya | 
+nul ,im:ayaya | 
+nul ,im:ayaya | st
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | pftest
+nul min:ayaya | [A
+nul min:ayaya | pftest
+nul min:ayaya | pftest
+nul min:ayaya | [A[A
+nul min:ayaya | [C
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | clear
+nul min:ayaya | help
+nul min:ayaya | fm
+nul min:ayaya | fm
+nul min:ayaya | news
+nul min:ayaya | uptime
+nul min:ayaya | uwufetch
+nul min:ayaya | uwufetch
+nul min:ayaya |                            
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | clear
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | a
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | 
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | 
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | aa
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | a
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | kghdghjkl;'\
+nul min:ayaya | 
+nul min:ayaya | asdfghjjkkl;'\
+nul min:ayaya | asdfghjkl;'\
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | clea
+nul min:ayaya | rclear
+nul min:ayaya | clear
+nul min:ayaya | help
+nul min:ayaya | 
+nul min:ayaya | st
+nul min:ayaya | [23~
+nul min:ayaya | q
+nul min:ayaya | :q
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | help
+nul min:ayaya | [A
+nul min:ayaya | help
+nul min:ayaya | [A
+nul min:ayaya | [A[A[A
+nul min:ayaya | help
+nul min:ayaya | [A]
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | 
+nul min:ayaya | help
+nul min:ayaya | about
+nul min:ayaya | rbt

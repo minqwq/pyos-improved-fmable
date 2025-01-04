@@ -1,0 +1,18 @@
+ls
+uwufetch [colotest256]
+chthm <themename>
+conf
+rm <file>
+rmdir <folder>
+su <user>
+echo [string]
+uptime
+hostname [-c]
+sudo
+about
+[rbt, st][power] [reboot, shutdown]
+time
+cuscmd
+help
+calc
+clear
